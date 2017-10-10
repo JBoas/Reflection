@@ -22,3 +22,9 @@ We covered a lot about variables and integers in Python3. We went over how to do
 # End of Fourth Week
 ## 9/29/2017
 We had a couple of work days at the beginning of the week which I spent working on problem 5. I had to code the addition part of a calculator using .split to split the additon a the the + symbol. I then added int(numbers[0]) and int(numbers[1]). This would add the two numbers together with just one line of input from the user. Later in the week we started conditionals with if, and, or, and else statements. The if statement was basically if blank is true then activate next line of code. The and statement makes the if statement more complicated by adding more to it to make it true. The or statement made an if statement have more than one possible way to make it true for example(if(password == "Dog" or "Cat"):. The else statement made it so if nothing made the if statement true the program had something to go to. For example if(password == "Dog" or "Cat"): ended up not being true you could put the else statement after to put "Wrong Password".   
+
+---
+
+# End of Fifth Week
+## 10/10/2017
+This week was mainly working on a coverter for time. The code would convert 12 hour to 24 hour and 24hour to 12 hour. All you had to do is  enter in the time. Some of the commands I used were: if,or,and,is,not,list(), and isnumeric(). The only new command was isnumeric(), which detects if the string can be converted to a proper integer or not. I used it as a filter for the 24 hour time section of my code. The problem I ran into was my code trying to convert letters into numbers. I also used <,>,<=,>=, in my code to act as filters. My problem was solved when I learned the command isnumeric().
