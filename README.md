@@ -28,3 +28,10 @@ We had a couple of work days at the beginning of the week which I spent working 
 # End of Fifth Week
 ## 10/10/2017
 This week was mainly working on a coverter for time. The code would convert 12 hour to 24 hour and 24hour to 12 hour. All you had to do is  enter in the time. Some of the commands I used were: if,or,and,is,not,list(), and isnumeric(). The only new command was isnumeric(), which detects if the string can be converted to a proper integer or not. I used it as a filter for the 24 hour time section of my code. The problem I ran into was my code trying to convert letters into numbers. I also used <,>,<=,>=, in my code to act as filters. My problem was solved when I learned the command isnumeric().
+
+
+---
+
+# End of Sixith Week
+## 10/13/2017
+This week we first had a general reeview of if statements, which I beleive I have a good grasp on. Nothing really new. On Wednesday we learned about while loops, which loops a command or commands until a certain requirment is met. For example a While code line would be While temp > 10.0). Then it could run print("it is cold") for example. On Thursday we learned about for loops. For loops stand for a certain thing inside something else, usually a list. For example for num1 in range(10) would print each number beween 0-10 ten times.
