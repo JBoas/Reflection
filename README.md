@@ -32,6 +32,15 @@ This week was mainly working on a coverter for time. The code would convert 12 h
 
 ---
 
+
 # End of Sixith Week
 ## 10/13/2017
 This week we first had a general reeview of if statements, which I beleive I have a good grasp on. Nothing really new. On Wednesday we learned about while loops, which loops a command or commands until a certain requirment is met. For example a While code line would be While temp > 10.0). Then it could run print("it is cold") for example. On Thursday we learned about for loops. For loops stand for a certain thing inside something else, usually a list. For example for num1 in range(10) would print each number beween 0-10 ten times.
+
+
+---
+
+
+#End of Seventh and Eighth Week
+## 10/27/2017
+The first week was a few days of review to understand while loops. While loops run until the while statement is considered false. The other day was review of for loops, EX for number in range(10) this would just give each number from 0 to 10 the name of number and run the code following with each number. The review of the iteration was done through writing code to determine if a number was strong and armstrong. Strong numbers are the sum of the factorials being equal to the number itself. For example 145 is strong, 1+(1*2*3*4)+(1*2*3*4*5)= 145. Armstrong numbers are the digits of a number to the power of how many total digits there are. Ex 371, 3 digits, 3**3 + 7**3 + 1**3 = 371. This past week we worked on problems to test the knowledge of while and for loops. I have completed 2 out of 3 problems so far. I completed 2 problems with good understanding and the last of my 3 problems has proven some difficulty.
