@@ -41,6 +41,15 @@ This week we first had a general reeview of if statements, which I beleive I hav
 ---
 
 
-#End of Seventh and Eighth Week
+# End of Seventh and Eighth Week
 ## 10/27/2017
 The first week was a few days of review to understand while loops. While loops run until the while statement is considered false. The other day was review of for loops, EX for number in range(10) this would just give each number from 0 to 10 the name of number and run the code following with each number. The review of the iteration was done through writing code to determine if a number was strong and armstrong. Strong numbers are the sum of the factorials being equal to the number itself. For example 145 is strong, 1+(1*2*3*4)+(1*2*3*4*5)= 145. Armstrong numbers are the digits of a number to the power of how many total digits there are. Ex 371, 3 digits, 3**3 + 7**3 + 1**3 = 371. This past week we worked on problems to test the knowledge of while and for loops. I have completed 2 out of 3 problems so far. I completed 2 problems with good understanding and the last of my 3 problems has proven some difficulty.
+
+
+---
+
+
+# End of 9th Week
+## 11/3/2017
+The first few days was work time to complete iteration problems. Problems 1 and 2 I was able to solve pretty well. Problem 4 was where I got stuck. The part I was confused on was how to use spaces to define where the letters were to add them to a list. While doing this problem I learned about splicing which looks like  words.append(sentence[wordstart:x]). This adds the characters from wordstart to x inside of the variable sentence. It seems useful but I feel like it may have made the problem more difficult. The last day of the week we learned about functions. For example len or .split are functions that have code that makes them up. We wrote a function to find armstrong numbers. The function requires def function_name_here(number): before all the code to name it. To test it we put the function name after all the code and a number like generate_armstrong_numbers(100000) This will run the funtion when we run the python file.
+
