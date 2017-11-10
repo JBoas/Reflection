@@ -53,3 +53,10 @@ The first week was a few days of review to understand while loops. While loops r
 ## 11/3/2017
 The first few days was work time to complete iteration problems. Problems 1 and 2 I was able to solve pretty well. Problem 4 was where I got stuck. The part I was confused on was how to use spaces to define where the letters were to add them to a list. While doing this problem I learned about splicing which looks like  words.append(sentence[wordstart:x]). This adds the characters from wordstart to x inside of the variable sentence. It seems useful but I feel like it may have made the problem more difficult. The last day of the week we learned about functions. For example len or .split are functions that have code that makes them up. We wrote a function to find armstrong numbers. The function requires def function_name_here(number): before all the code to name it. To test it we put the function name after all the code and a number like generate_armstrong_numbers(100000) This will run the funtion when we run the python file.
 
+
+---
+
+
+# End of 10th week
+## 11/10/2017
+This week we kept reviewing how functions work and creating functions for common things we use normally. We made functions for adding and multiplying. We learned how to call other functions inside of other functions. Fro example when we made a funtion for exponents we had to call the function for multiplying. We also had a question to answer about what happens when a function calls itself. When a function calls itself it becomes a recursive function and will repeat itself until told to stop or eventually gets too big and crashes. 
