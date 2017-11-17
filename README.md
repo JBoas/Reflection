@@ -60,3 +60,11 @@ The first few days was work time to complete iteration problems. Problems 1 and 
 # End of 10th week
 ## 11/10/2017
 This week we kept reviewing how functions work and creating functions for common things we use normally. We made functions for adding and multiplying. We learned how to call other functions inside of other functions. Fro example when we made a funtion for exponents we had to call the function for multiplying. We also had a question to answer about what happens when a function calls itself. When a function calls itself it becomes a recursive function and will repeat itself until told to stop or eventually gets too big and crashes. 
+
+
+---
+
+
+# End of 11th week
+## 11/17/2017
+This week we started to work with raspberry pi a little bit. It is just a computer shrunken down to palm size. It is able to run simple things and you can code on it. It has several sensors on it like barometer, accelorometer, humidity sensor, and more that you can attach. We currently are using something called the sensehat which can display colors through a grid of led bulbs that are on a circuit board. The circuit board is attached to the pi. You can use the senors to enable the sensehat or have it work on its own. We currently have it in a color formation to look like a dog walking. We are working on trying to make the whole grid turn red when the pi is moved using the accelorometer. I got the dog to walk forever but I need to work on the grid turning red.
