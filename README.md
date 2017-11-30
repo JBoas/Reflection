@@ -68,3 +68,11 @@ This week we kept reviewing how functions work and creating functions for common
 # End of 11th week
 ## 11/17/2017
 This week we started to work with raspberry pi a little bit. It is just a computer shrunken down to palm size. It is able to run simple things and you can code on it. It has several sensors on it like barometer, accelorometer, humidity sensor, and more that you can attach. We currently are using something called the sensehat which can display colors through a grid of led bulbs that are on a circuit board. The circuit board is attached to the pi. You can use the senors to enable the sensehat or have it work on its own. We currently have it in a color formation to look like a dog walking. We are working on trying to make the whole grid turn red when the pi is moved using the accelorometer. I got the dog to walk forever but I need to work on the grid turning red.
+
+
+---
+
+
+#End of 12th Week
+## 12/1/2017
+This week we worked on making our pets so we can begin to animate them. I created a dog using colors from the RGB scale. I put variables in a grid that relate to colors. That grid is then assigned to a single variable. The sense hat was then set to display the grid. I tried to make a dog and got it to work but I did run into some color problems. I learned how to make the sense hat on the raspberry pi display things through led lights. The week was spent working on making pets so that in the end they can something similar to a tamagotchi. We also worked on having the raspberry pi display a red grid if the pi was moved at all. This was done by sensing if the accelerometer of the pi was moved at all. We used the variables x,y, and z for yaw, pitch, and roll.
