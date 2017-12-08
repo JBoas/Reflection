@@ -76,3 +76,12 @@ This week we started to work with raspberry pi a little bit. It is just a comput
 #End of 12th Week
 ## 12/1/2017
 This week we worked on making our pets so we can begin to animate them. I created a dog using colors from the RGB scale. I put variables in a grid that relate to colors. That grid is then assigned to a single variable. The sense hat was then set to display the grid. I tried to make a dog and got it to work but I did run into some color problems. I learned how to make the sense hat on the raspberry pi display things through led lights. The week was spent working on making pets so that in the end they can something similar to a tamagotchi. We also worked on having the raspberry pi display a red grid if the pi was moved at all. This was done by sensing if the accelerometer of the pi was moved at all. We used the variables x,y, and z for yaw, pitch, and roll.
+
+
+---
+
+
+#End of 13th Week
+## 12/8/2017
+This we advanced out raspberry pi pets to have some animation. My dog now has two animations, one for being entertained and the other for eating. For being entertained my dog will wag his tail back and forth. The tail wagging is set to loop 5 times and it has some time.sleep in it so it is slower. For the eating animation my dog is at his food bowl eating. There are two parts to this animation. One has the dog at thh bowl, but with a closed mouth and the other has the dog with his tongue in the food bowl. I also exprienced a very strange syntax error in my pi code where it said there was an error on entertain = [, this was the beginning to an led chart for the sense hat. I removed it from being used in my code in the function and it suddenly worked. I searched all over for any errors and could find none. This week I also got pygame to work and I found a tutorial on how to create pong. I have a blank screen for pong and I am working on more.
+
