@@ -85,3 +85,9 @@ This week we worked on making our pets so we can begin to animate them. I create
 ## 12/8/2017
 This we advanced out raspberry pi pets to have some animation. My dog now has two animations, one for being entertained and the other for eating. For being entertained my dog will wag his tail back and forth. The tail wagging is set to loop 5 times and it has some time.sleep in it so it is slower. For the eating animation my dog is at his food bowl eating. There are two parts to this animation. One has the dog at thh bowl, but with a closed mouth and the other has the dog with his tongue in the food bowl. I also exprienced a very strange syntax error in my pi code where it said there was an error on entertain = [, this was the beginning to an led chart for the sense hat. I removed it from being used in my code in the function and it suddenly worked. I searched all over for any errors and could find none. This week I also got pygame to work and I found a tutorial on how to create pong. I have a blank screen for pong and I am working on more.
 
+ --
+
+
+#End of 14th Week
+## 12/15/2017
+This week we made out raspberry pi pets have the two animations be triggered by different movement using the different devices on the pi. For enteraining the accelorometer is used and for eating the orientation of the pi is used. When the pi is upside down the eating animation will play. It uses roll and yaw to tell if it is upside down. The command I used for the orientation was a sense.get_orientation api. It gives me the values of pitch, yaw, and roll in a list form for me to use. After that I added in a entertain and food bar that slowly decreases and is resent if the animation for that one is played. If one of the values goes from 100 to 0 it will display rolling text that tells you the pet has died. I am also in the process of working on my pong project and trying to understand how it comes together.
